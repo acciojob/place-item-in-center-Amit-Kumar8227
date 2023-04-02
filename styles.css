@@ -1,7 +1,5 @@
 
 /* Your CSS Code here. */
-.item-1{
-/* 	display:flex; */
-/* 	item-align:center; */
-	text-align:center
+.holder{
+	text-align:center;
 }
